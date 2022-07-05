@@ -1,0 +1,470 @@
+﻿[
+  {
+    "x": [
+      {
+        "start": {
+"identity": 4,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1981,
+"name": "Chris Evans"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 4,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1981,
+"name": "Chris Evans"
+              }
+            },
+            "relationship": {
+"identity": 3,
+"start": 4,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 5,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1982,
+"name": "Hayley Atwell"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 5,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1982,
+"name": "Hayley Atwell"
+              }
+            },
+            "relationship": {
+"identity": 4,
+"start": 5,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 6,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1982,
+"name": "Sebastian Stan"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 6,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1982,
+"name": "Sebastian Stan"
+              }
+            },
+            "relationship": {
+"identity": 5,
+"start": 6,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 7,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1946,
+"name": "Tommy Lee Jones"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 7,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1946,
+"name": "Tommy Lee Jones"
+              }
+            },
+            "relationship": {
+"identity": 6,
+"start": 7,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 8,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1978,
+"name": "Dominic Cooper"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 8,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1978,
+"name": "Dominic Cooper"
+              }
+            },
+            "relationship": {
+"identity": 7,
+"start": 8,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 1,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1950,
+"name": "Joe Johnson"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 1,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1950,
+"name": "Joe Johnson"
+              }
+            },
+            "relationship": {
+"identity": 0,
+"start": 1,
+"end": 0,
+"type": "DIRECTED",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 2,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1970,
+"name": "Christopher Markus"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 2,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1970,
+"name": "Christopher Markus"
+              }
+            },
+            "relationship": {
+"identity": 1,
+"start": 2,
+"end": 0,
+"type": "WROTE",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      },
+      {
+        "start": {
+"identity": 3,
+"labels": [
+            "Person"
+          ],
+"properties": {
+"born": 1969,
+"name": "Stephen McFreely"
+          }
+        },
+        "end": {
+"identity": 0,
+"labels": [
+            "Movie"
+          ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+          }
+        },
+        "segments": [
+          {
+            "start": {
+"identity": 3,
+"labels": [
+                "Person"
+              ],
+"properties": {
+"born": 1969,
+"name": "Stephen McFreely"
+              }
+            },
+            "relationship": {
+"identity": 2,
+"start": 3,
+"end": 0,
+"type": "WROTE",
+"properties": {
+
+              }
+            },
+            "end": {
+"identity": 0,
+"labels": [
+                "Movie"
+              ],
+"properties": {
+"tagline": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+"title": "Captain America: Pierwsze starcie",
+"released": 2011
+              }
+            }
+          }
+        ],
+        "length": 1.0
+      }
+    ]
+  }
+]
