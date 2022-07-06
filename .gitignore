@@ -2,6 +2,4 @@
 # Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/NBD/FileContentIndex/0c4835eb-9f79-4579-8cca-084e8823d4f1.vsidx
-/.vs/NBD/FileContentIndex/3509ae23-c5be-4076-b8ed-23068d2fff2f.vsidx
-/.vs/NBD/FileContentIndex
+/.vs/
